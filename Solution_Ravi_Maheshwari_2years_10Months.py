@@ -25,7 +25,7 @@ def GetMaxStockPrices(fileObject):
  
 def main():
     # Can take a input_csv importing modules
-    with open('Share_Prices_List.csv') as fileObject:# File opened
+    with open('Share_Prices_List.csv') as fileObject:# File opened*****Before Run this script please ensure first right path is modified here******
         max = GetMaxStockPrices(fileObject) #Get list of required values of share
         for company in sorted(max):
             print("%s: %s %s (%.f)" % (company, max[company].year, max[company].month, max[company].price)) # Print all required values.
