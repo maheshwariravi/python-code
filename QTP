@@ -1,0 +1,123 @@
+------ECCS Server---------
+UN - tstattfrd006
+P - Jpmc32015
+vdesk.eccs.jpmchase.net/
+------------------------
+
+G:\MUM\CustomerCare\CardIT\Automation\OPT\Fraud\First Watch Intelligence\Automation_Framework\Test_Scripts
+
+RSAM  QAJANGO Password - z0mQD6Ps
+---------------
+SYS ID - SYS91V
+----------------
+AmerXBUS$\XBUS\NANJVDIHOME26
+-----------------------
+v589854
+Account number -
+4266841007197724
+4266841007167420
+4227650000250341
+5401683001642948
+4266841007317389- clean account
+----------C3--------------
+v
+C3 Login cmd
+logon applid(cicsvg0t)
+otis5500on
+
+USername: FRDT02
+Password: Jpmc0315
+
+------------------------C3----------------------
+
+https://atc/selfservice/default.aspx
+
+------ALM Link--------
+http://ealm11.jpmchase.net/qcbin/start_a.jsp
+--------------------
+UID-PASS
+N626393
+Watch@007
+
+e423931
+Amrita_03
+--------------------------
+
+---Confrance room booking---
+VEMS
+----------------------
+
+-------------------------
+0008004405021
+91627002chase
+-------------------------
+--------CA Info-----------
+fsdqa.jpmchase.net
+N607555
+Flash@44
+-------------------------
+
+----Test Lab Path--------
+Root - Automation - Amit K - FWI
+
+--------------------------
+
+---Test Plan ------------
+Subject - OPT FCD - FRD - IS - Core Reg Suite - FWI - Priority 1 test cases - LOP
+--------------------
+ -------Test Resoureces----
+Resources - Card - Automation - FRD - FWI 
+-----------------
+
+
+tstattcco001
+Jpmc28015
+
+-------------------------------------------------
+
+
+
+net use G: \\us.ad.fusa.com\Group$
+
+
+: \\us.ad.fusa.com\Group$ * /user
+
+Transport
+
+29776862 
+ 
+4266841007370974	english	   
+4266841007371006	english	   
+4266841007371014	english	   
+4266841007371022	spanish	   
+5401683001650842	spanish	   
+5401683001650883	english	   
+5401683001650891	English	   
+5401683001650909	spanish	   
+5401683001650917	english	   
+5401683001650925	english	   
+5401683001650933	english	   
+5401683001594396	spanish	   
+5401683001594404	spanish	 
+
+FRD_FWIC_PRR Decision_LOP_Default English_Business Queue_Disposition RDCA_Business Bureau Letter TTR058_P
+
+------------------------------------------------
+MACR
+IAGI
+
+
+
+
+------------------------------
+Remove Space
+
+------------------------------------
+
+Emp ID (User Name) - 18605
+Password - b6a39b8c
+SPWD - b6899a5d
+https://eportal.htcindia.com
+
+
+
